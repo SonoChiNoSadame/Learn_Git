@@ -1,3 +1,4 @@
+print("Hello, my fantastic guest!!!!")
 wejscie = int(input("How many numbers do you have?"))
 
 numbers = []
